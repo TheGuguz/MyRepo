@@ -1,4 +1,4 @@
-Type;IPC Name;Width;IPC Description;IPC Code
+Type;IPC Name;Width;IPC Description;IPC Code;000
 1;CAPAD800W52L600D150A;;Capacitors, Axial, Diameter (CAPAD);CAPAD + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
 2;CAPAR1600W80L2300T700H1250;;Capacitors, Axial, Rectangular (CAPAR);CAPAR + Lead Spacing + W Lead Width + L Body Length + T Body thickness + H Body Height + Fab Level
 3;CAPADV300W52L600D150B;;Capacitors, Axial, Diameter, Mounted Vertically (CAPADV);CAPADV + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
