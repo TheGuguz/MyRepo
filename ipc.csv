@@ -1,0 +1,39 @@
+Type;IPC Name;Width;IPC Description;IPC Code
+1;CAPAD800W52L600D150A;;Capacitors, Axial, Diameter (CAPAD);CAPAD + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+2;CAPAR1600W80L2300T700H1250;;Capacitors, Axial, Rectangular (CAPAR);CAPAR + Lead Spacing + W Lead Width + L Body Length + T Body thickness + H Body Height + Fab Level
+3;CAPADV300W52L600D150B;;Capacitors, Axial, Diameter, Mounted Vertically (CAPADV);CAPADV + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+4;CAPARV800W80L2300T700H1250B;;Capacitors, Axial, Rectangular, Mounted Vertically (CAPARV);CAPARV + Lead Spacing + W Lead Width + L Body Length + T Body Thickness + H Body Height + Fab Level
+5;CAPRD200W52D300H550B;;Capacitors, Radial, Diameter (CAPRD);CAPRD + Lead Spacing + W Lead Width + D Body Diameter + H Body Height + Fab Level
+6;CAPRR500W50L720T250H650A;;Capacitors, Radial, Rectangular (CAPRR);CAPRR + Lead Spacing + W Lead Width + L Body Length + T Body thickness + H Body Height + Fab Level
+7;CAPRB250W60L500T350H550B;;Capacitors, Radial, Disk Button (CAPRB);CAPRB + Lead Spacing + W Lead Width + L Body Length + T Body thickness + H Body Height + Fab Level
+8;CAPPAD800W52L600D150B;;Capacitors, Polarized, Axial, Diameter (CAPPAD);CAPPAD + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+9;CAPPRD150W45D400H500B;;Capacitors, Polarized, Radial (CAPPRD);CAPPRD + Lead Spacing + W Lead Width + D Body Diameter + H Body Height + Fab Level
+10;DIOAD800W52L600D150B;;Diodes, Polarized, Axial Diameter Leaded (DIOAD);DIOAD + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+11;DIOADV300W52L600D150B;;Diodes, Polarized, Axial, Diameter, Mounted Vertically (DIOADV);DIOADV + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+12;dip1016w48p178l2800h508q32a;889;Dual In‐Line Packages (DIP);DIP + Lead Span + W Lead Width + P Pin Pitch + L Body Length + H Component Height + Q Pin Qty + Fab Level
+12;DIP762W45P254L1016H508Q8B;635;Dual In‐Line Packages (DIP);DIP + Lead Span + W Lead Width + P Pin Pitch + L Body Length + H Component Height + Q Pin Qty + Fab Level
+12;DIP762W45P254L1954H508Q14B;635;Dual In‐Line Packages (DIP);DIP + Lead Span + W Lead Width + P Pin Pitch + L Body Length + H Component Height + Q Pin Qty + Fab Level
+13;DIPS1016W58P254L2794H510Q22B;1270;Dual In‐Line Package Sockets (DIPS);DIPS + Lead Span + W Lead Width + P Pin Pitch + L Body Length + H Component Height + Q Pin Qty + Fab Level
+14;TO544P2100X1580X500-3B;;Transistor Outlines, Flange Mount, Horizontal (TO‐220 style);TO + Pin Pitch P + Body Length X Body Width X Height Max – Pin Qty + Fab Level
+15;TO254P420X1020X1535-3B;;Transistor Outlines, Flange Mount, Mounted Vertically (TO‐220 style);TO + Pin Pitch P + Body Length X Body Width X Height Max – Pin Qty + Fab Level
+16;TO508R895X660-4B;;Transistor Outlines, Cylindrical (TO-99 style);TO + Pin Pitch P + Body Diameter X Height Max – Pin Qty + Fab Level
+17;HDRV20W64P254_2X10_2540X254X838B;;Headers, Mounted Vertically (HDR);HDRV + total Pins + W Lead Width + P Row Pitch (+ X Column Pitch [if different]) + _ Row s + X Pins per Row + _ Body Length + X Body Thickness + X Component Height + Fab Level
+18;HDRRA20W64P254_2X10_2540X254X508B;;Headers, Right Angle (HDRRA);HDRRA + total Pins + W Lead Width + P Row Pitch (+ X Column Pitch [if different]) + _ Row s + X Pins per Row + _ Body Length + X Body Thickness + X Component Height + Fab Level
+18;INDAD800W52L600D150B;;Inductors, Axial, Diameter (INDAD);INDAD + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+19;INDADV300W52L600D150B;;Inductors, Axial, Diameter, Mounted Vertically (INDADV);INDADV + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+20;JUMP500W52B;;Jumpers, Wire (JUMP);JUMP + Lead Spacing + W Lead Width + Fab Level
+21;MTGNP870H385V6B;;Mounting holes, Non-Plated (MTGNP);MTG + NP (non-plated) + Land Size + H + Hole Size + V + No. of Vias + Fab Level
+22;MTGP735H385Z735B;;Mounting holes, Plated (MTGP);MTG + P (plated) + Land Size + H + Hole Size + Z + Anti-pad size + Fab Level
+23;OSC762W46P762L1320H600Q4B;1270;Oscillators (OSC);OSC + Lead Span + W Lead Diameter + P Pin Pitch + L Body Length + H Component Height + Q Pin Qty + Fab Level
+24;PGA84P254C10R10L2500X2500H300B;;Pin Grid Array's (PGA);PGA + Pin Qty + P Pitch + C Pin Columns + R Pin Rows + L Body Length X Body Width + H Component Height + Fab Level
+25;RESAD800W52L600D150B;;Resistors, Axial, Diameter (RESAD);RESAD + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+26;RESADV300W52L600D150B;;Resistors, Axial Diameter, Mounted Vertically (RESADV);RESADV + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+27;RESAR2200W80L1800T640H640B;;Resistors, Axial, Rectangular (RESAR);RESAR + Lead Spacing + W Lead Width + L Body Length + T Body thickness + H Body Height + Fab Level
+28;SIP150W52P254L1905H508Q8B;;Single In‐line Packages (SIP);SIP + Body Width + W Lead Width + P Pin Pitch + L Body Length + H Component Height + Q Pin Qty + Fab Level
+29;TPCW64D254H584B;;Test Points, Round (TPC);TP + C + W + Lead Width + D + Body Diameter + H + Height + Fab Level
+30;TPRW64L254H584B;;Test Points, Square (TPR);TP + R + W + Lead Width + L + Body Size + H + Height + Fab Level
+31;FUSAD800W52L600D150B;;Fuses, Axial, Diameter (FUSAD);FUSAD + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+32;FUSADV300W52L600D150B;;Fuses, Axial, Diameter, Mounted Vertically (FUSADV);FUSADV + Lead Spacing + W Lead Width + L Body Length + D Body Diameter + Fab Level
+33;FUSRR508W60L835T400H780B;;Fuses, Radial, Rectangular (FUSRR);FUS + Lead Spacing + W Lead Width + L Body Length + T Body thickness + H Body Height + Fab Level
+34;LEDRD254W50D320H460B;;LEDs, Radial Diameter (LEDRD);LEDRD + Lead Spacing + W Lead Width + D Body Diameter + H Body Height + Fab Level
+35;XTAL;;Crystals (XTAL);XTAL +++ + Fab Level
